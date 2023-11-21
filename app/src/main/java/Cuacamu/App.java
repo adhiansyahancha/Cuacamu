@@ -59,7 +59,7 @@ public class App extends JFrame {
         paddedContainer.setBorder(new EmptyBorder(3, 12, 12, 12));
         this.setContentPane(paddedContainer);
 
-        this.setTitle("Cuacamu - Penampil arahAngin");
+        this.setTitle("Cuacamu - Penampil cuaca");
         this.setSize(500, 210);
         this.setResizable(false);
         this.setLayout(new GridLayout(5, 2, 3, 3));
